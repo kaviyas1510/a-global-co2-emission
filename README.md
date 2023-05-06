@@ -11,3 +11,5 @@ story:https://drive.google.com/file/d/15GE1kKqy_D8abVLhXqqtNYd8__MwYjQV/view?usp
 dashboard:https://drive.google.com/file/d/1Bc1eT1djB_OM3DA_SNyOiOquGWAS12in/view?usp=share_link
 
 pdf: https://drive.google.com/file/d/1tHxgnBXo6-1j4RQigsH8-Quy2nh4BvY0/view?usp=share_link
+
+data set:https://drive.google.com/file/d/1asqeBgvOuXLAZyevuq-YPrPjj2GwB_Bi/view?usp=share_link
